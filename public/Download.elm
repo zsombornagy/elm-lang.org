@@ -5,9 +5,7 @@ install = [markdown|
 
 ### Install
 
-If you are on Mac OSX, [download this](https://dl.dropboxusercontent.com/u/5850974/Elm/Elm.pkg).
-Otherwise use these [install instructions][1].
-You are getting:
+Follow the [install instructions][1]. You are getting:
 
 1. *Compiler* &ndash; Turn Elm code into HTML, CSS, and JavaScript.
 
@@ -41,9 +39,9 @@ There are some Elm specific highlighters.
 Haskell syntax highlighting also tends to work pretty well.
 
 * *Vim* &ndash; use Haskell mode or [try elm.vim](https://github.com/otavialabs/elm.vim).
-* *Sublime Text* &ndash; install [Elm Language Support](https://github.com/deadfoxygrandpa/Elm.tmLanguage) with [Package Control](http://wbond.net/sublime_packages/package_control).
 * *Emacs* &ndash; turn on [haskell-mode](https://github.com/afeinberg/haskellmode-emacs#readme)
   for `.elm` files.
+* *Sublime Text* &ndash; [Elm Language Support](https://github.com/deadfoxygrandpa/Elm.tmLanguage).
 
 There is some more info on this [on the email list](https://groups.google.com/forum/?fromgroups#!topic/elm-discuss/Tt0Z538Xv7g).
 |]

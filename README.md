@@ -11,7 +11,8 @@ only need to think about the content.
 
 ### Set up
 
-First make sure that you have the Elm compiler installed ([directions](https://github.com/evancz/Elm#elm)).
+First make sure that you have the Elm compiler installed
+([directions](https://github.com/evancz/Elm#elm)).
 
 Then follow these steps to get this all running on your local machine:
 
@@ -27,7 +28,6 @@ Then follow these steps to get this all running on your local machine:
 - Run `compile.bat`. This will compile the server and start it on your machine.
 
 Great! You should be set up with [elm-lang.org](http://elm-lang.org/) running at [localhost:8000/](http://localhost:8000/).
-
 
 ### Project Structure
 
